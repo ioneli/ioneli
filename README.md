@@ -4,7 +4,8 @@ Aspiring Software Developer passionate about building real-world applications.
 ## Projects
 
 ### Nail Booking App
-##with live demo https://nail-booking-app-2jhs.onrender.com
+##with live demo https://nail-booking-app-uqua.onrender.com
+Booking App
 Appointment booking system with OTP verification and Google admin login.
 
 Tech:
